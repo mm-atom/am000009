@@ -1,6 +1,6 @@
 {
 	"name": "@mmstudio/am000009",
-	"version": "1.0.0",
+	"version": "1.0.202003200944",
 	"description": "打开微信",
 	"scripts": {
 		"test": "tsc -w",
